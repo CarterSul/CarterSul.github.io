@@ -2,6 +2,13 @@ html, body {
   margin: 0;
   padding: 0;
 }
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 canvas {
   display: block;
 }
